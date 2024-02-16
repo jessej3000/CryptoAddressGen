@@ -1,0 +1,15 @@
+{
+  "name": "CryptoAddressGenerator",
+  "version": "1.0.0",
+  "description": "Crypto Address Generator",
+  "main": "index.js",
+  "author": "Jesse Junsay",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "ethereumjs-util": "^7.1.5",
+    "ethereumjs-wallet": "^1.0.2"
+  }
+}
